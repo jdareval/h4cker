@@ -1,4 +1,5 @@
-# Resumen del Repositorio The Art of Haking - GRUPO 5
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=164B63&multiline=true&width=453&height=100&lines=Resumen del Repositorio The Art of Haking - GRUPO 5+;Cybersecurity+Resources)](https://git.io/typing-svg)
+ 
 En este Documento se podrá encontrar un resumen y análisis de la selección del repositorio THE ART OF HACKING (/ H4CKER) que es mantenida por Omar Santos experto en temas de ciberseguridad https://github.com/santosomar 
 Este repositorio se lo puede considerar una biblioteca digital filtrada que contiene diferentes recursos para ciberseguridad como guías, herramientas y manuales que le permiten a profesionales y estudiantes utilizarla como guía.
 Analizando las recomendaciones los usuarios lo describen como un repositorio donde se puede encontrar recursos fiables y actualizados sin sobrecarga de información.
